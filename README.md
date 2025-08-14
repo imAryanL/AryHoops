@@ -124,9 +124,13 @@ AryHoops is a comprehensive basketball-focused iOS application designed to keep 
 
 ## Demo
 
+### GIF Preview
 ![AryHoops Demo](https://github.com/user-attachments/assets/dbf64b91-3284-4361-892e-739c5f81f924)
 
 *Demo showing the app running on iPhone 16 Pro simulator*
+
+### Video Walkthrough
+▶️ **[Watch Full Demo on YouTube](https://www.youtube.com/watch?v=2ks4rYU58LY)**
 
 ## Installation & Setup
 
