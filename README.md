@@ -1,8 +1,5 @@
 # AryHoops 🏀
 
-#### Aryan Lakhani
-#### Z Number: Z23724811
-
 ## Table of Contents
 
 1. [Overview](#overview)
